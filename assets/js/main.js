@@ -648,6 +648,7 @@
       if (a.classList.contains("js-mail-text")) a.textContent = SITE.email || "";
     });
     document.querySelectorAll(".js-maps-link").forEach(function (a) { a.href = SITE.mapsUrl || "#"; });
+    document.querySelectorAll(".js-directions").forEach(function (a) { a.href = SITE.directionsUrl || SITE.mapsUrl || "#"; });
     document.querySelectorAll(".js-fb-link").forEach(function (a) { a.href = SITE.facebook || "#"; });
   }
 

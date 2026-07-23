@@ -16,7 +16,11 @@ window.SITE = {
   phoneIntl: "+359893698008",
   email: "mehana.pechinsko@gmail.com",
   facebook: "https://www.facebook.com/mehanapechinsko",
-  mapsUrl: "https://maps.google.com/?q=41.4497086,24.9770085",
+  // mapsUrl отваря истинската страница на механата в Google (по неин CID),
+  // а не само точка с координати — оттам са отзивите, снимките и часовете.
+  mapsUrl: "https://www.google.com/maps?cid=12844904807683056575",
+  // directionsUrl дава упътване стъпка по стъпка до самата механа.
+  directionsUrl: "https://www.google.com/maps/dir/?api=1&destination=41.4497086,24.9770085",
   mapsEmbed: "https://www.google.com/maps?q=41.4497086,24.9770085&hl=bg&z=14&output=embed",
   coords: { lat: 41.4497086, lng: 24.9770085 },
   address: {
