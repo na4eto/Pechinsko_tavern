@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Илюстрация: топла пърленка върху дървена дъска">
+  <rect width="800" height="600" fill="#EFE3CB"/>
+
+  <!-- дървена дъска -->
+  <ellipse cx="400" cy="330" rx="290" ry="180" fill="#8A6E4B"/>
+  <ellipse cx="400" cy="322" rx="290" ry="180" fill="#A8845A"/>
+  <path d="M180 250 C260 236 540 236 620 250" stroke="#8A6E4B" stroke-width="3" fill="none" opacity="0.5"/>
+  <path d="M150 322 C260 306 540 306 650 322" stroke="#8A6E4B" stroke-width="3" fill="none" opacity="0.4"/>
+  <path d="M170 390 C280 376 520 376 630 390" stroke="#8A6E4B" stroke-width="3" fill="none" opacity="0.5"/>
+  <circle cx="640" cy="322" r="14" fill="#6B5334"/>
+  <circle cx="640" cy="322" r="6" fill="#57402C"/>
+
+  <!-- пърленката -->
+  <ellipse cx="380" cy="316" rx="180" ry="120" fill="#E5BE85"/>
+  <ellipse cx="380" cy="308" rx="180" ry="118" fill="#EFCD97"/>
+  <!-- препечени петна -->
+  <g fill="#C99055" opacity="0.85">
+    <ellipse cx="310" cy="270" rx="24" ry="14"/>
+    <ellipse cx="420" cy="252" rx="18" ry="11"/>
+    <ellipse cx="470" cy="320" rx="22" ry="13"/>
+    <ellipse cx="330" cy="360" rx="20" ry="12"/>
+    <ellipse cx="396" cy="308" rx="14" ry="9"/>
+  </g>
+  <g fill="#A8724C" opacity="0.7">
+    <ellipse cx="308" cy="268" rx="10" ry="6"/>
+    <ellipse cx="472" cy="322" rx="9" ry="6"/>
+    <ellipse cx="418" cy="250" rx="8" ry="5"/>
+  </g>
+  <!-- резен отделен -->
+  <path d="M498 380 L588 428 C566 452 522 462 488 452 Z" fill="#EFCD97"/>
+  <path d="M498 380 L588 428 C580 434 570 440 558 444 Z" fill="#E5BE85"/>
+
+  <!-- семки по горната кора -->
+  <g fill="#6E4E33">
+    <ellipse cx="300" cy="240" rx="4" ry="2.4" transform="rotate(24 300 240)"/>
+    <ellipse cx="352" cy="228" rx="4" ry="2.4" transform="rotate(-18 352 228)"/>
+    <ellipse cx="405" cy="236" rx="4" ry="2.4" transform="rotate(40 405 236)"/>
+    <ellipse cx="452" cy="258" rx="4" ry="2.4" transform="rotate(-30 452 258)"/>
+    <ellipse cx="285" cy="300" rx="4" ry="2.4" transform="rotate(12 285 300)"/>
+    <ellipse cx="345" cy="330" rx="4" ry="2.4" transform="rotate(-42 345 330)"/>
+    <ellipse cx="416" cy="344" rx="4" ry="2.4" transform="rotate(20 416 344)"/>
+    <ellipse cx="470" cy="286" rx="4" ry="2.4" transform="rotate(-12 470 286)"/>
+    <ellipse cx="376" cy="272" rx="4" ry="2.4" transform="rotate(52 376 272)"/>
+  </g>
+  <g fill="#EFE0B8">
+    <ellipse cx="322" cy="262" rx="3.4" ry="2" transform="rotate(-24 322 262)"/>
+    <ellipse cx="388" cy="238" rx="3.4" ry="2" transform="rotate(30 388 238)"/>
+    <ellipse cx="440" cy="316" rx="3.4" ry="2" transform="rotate(-40 440 316)"/>
+    <ellipse cx="310" cy="336" rx="3.4" ry="2" transform="rotate(16 310 336)"/>
+    <ellipse cx="426" cy="272" rx="3.4" ry="2" transform="rotate(-8 426 272)"/>
+  </g>
+
+  <!-- бучка масло -->
+  <rect x="356" y="284" width="44" height="30" rx="6" fill="#F6E7B8" transform="rotate(-8 378 299)"/>
+  <rect x="362" y="290" width="30" height="18" rx="4" fill="#FAF0CE" transform="rotate(-8 377 299)"/>
+
+  <!-- стрък чубрица -->
+  <g transform="rotate(24 620 470)">
+    <line x1="600" y1="470" x2="668" y2="470" stroke="#42553F" stroke-width="4" stroke-linecap="round"/>
+    <path d="M612 470 l8 -12 M624 470 l9 -13 M636 470 l9 -12 M648 470 l8 -11" stroke="#55684E" stroke-width="4" stroke-linecap="round"/>
+    <path d="M612 470 l8 12 M624 470 l9 13 M636 470 l9 12" stroke="#55684E" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- черно-бяла родопска черга (както на масите в механата) -->
+  <g transform="rotate(-12 160 480)">
+    <rect x="80" y="436" width="170" height="100" fill="#221C16"/>
+    <g fill="#EFE9DC">
+      <path d="M104 452 l10 10 -10 10 -10 -10 z"/>
+      <path d="M140 452 l10 10 -10 10 -10 -10 z"/>
+      <path d="M176 452 l10 10 -10 10 -10 -10 z"/>
+      <path d="M212 452 l10 10 -10 10 -10 -10 z"/>
+      <path d="M122 486 l10 10 -10 10 -10 -10 z"/>
+      <path d="M158 486 l10 10 -10 10 -10 -10 z"/>
+      <path d="M194 486 l10 10 -10 10 -10 -10 z"/>
+      <path d="M230 486 l10 10 -10 10 -10 -10 z"/>
+    </g>
+    <g stroke="#EFE9DC" stroke-width="2.4">
+      <line x1="84" y1="442" x2="246" y2="442"/>
+      <line x1="84" y1="530" x2="246" y2="530"/>
+    </g>
+    <g stroke="#EFE9DC" stroke-width="2">
+      <line x1="86" y1="536" x2="86" y2="544"/>
+      <line x1="102" y1="536" x2="102" y2="544"/>
+      <line x1="118" y1="536" x2="118" y2="544"/>
+      <line x1="134" y1="536" x2="134" y2="544"/>
+      <line x1="150" y1="536" x2="150" y2="544"/>
+      <line x1="166" y1="536" x2="166" y2="544"/>
+      <line x1="182" y1="536" x2="182" y2="544"/>
+      <line x1="198" y1="536" x2="198" y2="544"/>
+      <line x1="214" y1="536" x2="214" y2="544"/>
+      <line x1="230" y1="536" x2="230" y2="544"/>
+      <line x1="246" y1="536" x2="246" y2="544"/>
+    </g>
+  </g>
+</svg>

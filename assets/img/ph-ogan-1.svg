@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Илюстрация по снимка на пещта: зидана пещ от светла тухла с жив огън, наредени дърва и фурнаджийска лопата">
+  <style>
+    @keyframes emberFloat { 0% { transform: translateY(0); opacity: 0.9; } 50% { opacity: 0.35; } 100% { transform: translateY(-14px); opacity: 0; } }
+    .ember-dot { animation: emberFloat 3.4s ease-in infinite; }
+    .ember-dot:nth-of-type(2) { animation-delay: 1.2s; }
+    .ember-dot:nth-of-type(3) { animation-delay: 2.1s; }
+    @media (prefers-reduced-motion: reduce) { .ember-dot { animation: none; } }
+  </style>
+  <rect width="800" height="600" fill="#F2EADA"/>
+
+  <!-- тъмна греда над пещта -->
+  <rect x="60" y="96" width="680" height="26" fill="#4A3A2B"/>
+
+  <!-- тухлен масив -->
+  <rect x="80" y="122" width="640" height="348" fill="#E8DCC2"/>
+  <g stroke="#CBBD9E" stroke-width="1.7" opacity="0.9">
+    <line x1="80" y1="150" x2="720" y2="150"/>
+    <line x1="80" y1="178" x2="720" y2="178"/>
+    <line x1="80" y1="206" x2="720" y2="206"/>
+    <line x1="80" y1="234" x2="720" y2="234"/>
+    <line x1="80" y1="262" x2="720" y2="262"/>
+    <line x1="80" y1="290" x2="720" y2="290"/>
+    <line x1="80" y1="318" x2="720" y2="318"/>
+    <line x1="80" y1="346" x2="720" y2="346"/>
+    <line x1="80" y1="374" x2="720" y2="374"/>
+    <line x1="80" y1="402" x2="720" y2="402"/>
+    <line x1="80" y1="430" x2="720" y2="430"/>
+    <line x1="120" y1="122" x2="120" y2="150"/>
+    <line x1="200" y1="122" x2="200" y2="150"/>
+    <line x1="640" y1="122" x2="640" y2="150"/>
+    <line x1="160" y1="150" x2="160" y2="178"/>
+    <line x1="660" y1="150" x2="660" y2="178"/>
+    <line x1="105" y1="178" x2="105" y2="206"/>
+    <line x1="695" y1="178" x2="695" y2="206"/>
+    <line x1="105" y1="262" x2="105" y2="290"/>
+    <line x1="695" y1="262" x2="695" y2="290"/>
+    <line x1="105" y1="346" x2="105" y2="374"/>
+    <line x1="695" y1="346" x2="695" y2="374"/>
+  </g>
+
+  <!-- пещта: арка с огън -->
+  <path d="M150 440 V330 a150 118 0 0 1 300 0 V440 Z" fill="#17100B"/>
+  <path d="M150 440 V330 a150 118 0 0 1 300 0 V440" fill="none" stroke="#D9C9A6" stroke-width="7"/>
+  <circle cx="300" cy="392" r="82" fill="#A8402A" opacity="0.14"/>
+  <path d="M300 434 C278 412 282 390 298 372 C303 383 311 384 314 377 C327 392 326 416 300 434 Z" fill="#8A3020"/>
+  <path d="M300 432 C286 416 288 400 299 386 C302 394 309 394 311 389 C320 402 318 420 300 432 Z" fill="#A8402A"/>
+  <path d="M300 429 C292 419 293 408 300 399 C302 404 307 405 308 401 C313 411 310 421 300 429 Z" fill="#D97E4A"/>
+  <path d="M300 426 C296 421 296 414 300 409 C303 414 304 421 300 426 Z" fill="#E8B08E"/>
+  <path d="M258 434 C250 424 252 414 259 406 C261 412 266 413 267 410 C273 420 269 428 258 434 Z" fill="#8A3020" opacity="0.85"/>
+  <path d="M342 434 C334 424 336 412 343 404 C345 411 350 412 351 408 C357 419 353 428 342 434 Z" fill="#8A3020" opacity="0.85"/>
+  <g fill="#E8A25B">
+    <circle class="ember-dot" cx="272" cy="366" r="3"/>
+    <circle class="ember-dot" cx="308" cy="354" r="2.6"/>
+    <circle class="ember-dot" cx="336" cy="370" r="2.2"/>
+  </g>
+
+  <!-- желязна колона с орнамент между арките -->
+  <g stroke="#2A2018" fill="none">
+    <line x1="490" y1="200" x2="490" y2="440" stroke-width="7"/>
+    <path d="M490 250 c-16 10 -16 30 0 40 c16 -10 16 -30 0 -40 z" stroke-width="3"/>
+    <circle cx="490" cy="270" r="5" stroke-width="3"/>
+    <path d="M478 320 c8 10 16 10 24 0 M478 350 c8 -10 16 -10 24 0" stroke-width="2.6"/>
+  </g>
+
+  <!-- ниша с дърва -->
+  <path d="M530 440 V330 a105 88 0 0 1 210 0 V440 Z" fill="#241A13"/>
+  <path d="M530 440 V330 a105 88 0 0 1 210 0 V440" fill="none" stroke="#D9C9A6" stroke-width="6"/>
+  <g>
+    <circle cx="574" cy="416" r="15" fill="#8A6E4B"/><circle cx="574" cy="416" r="7" fill="#6B5334"/>
+    <circle cx="608" cy="420" r="14" fill="#A8845A"/><circle cx="608" cy="420" r="6.5" fill="#8A6E4B"/>
+    <circle cx="642" cy="416" r="15" fill="#8A6E4B"/><circle cx="642" cy="416" r="7" fill="#6B5334"/>
+    <circle cx="676" cy="420" r="14" fill="#A8845A"/><circle cx="676" cy="420" r="6.5" fill="#8A6E4B"/>
+    <circle cx="590" cy="392" r="13" fill="#A8845A"/><circle cx="590" cy="392" r="6" fill="#8A6E4B"/>
+    <circle cx="624" cy="390" r="14" fill="#8A6E4B"/><circle cx="624" cy="390" r="6.5" fill="#6B5334"/>
+    <circle cx="658" cy="392" r="13" fill="#A8845A"/><circle cx="658" cy="392" r="6" fill="#8A6E4B"/>
+    <circle cx="606" cy="366" r="12" fill="#8A6E4B"/><circle cx="606" cy="366" r="5.5" fill="#6B5334"/>
+    <circle cx="638" cy="366" r="12" fill="#A8845A"/><circle cx="638" cy="366" r="5.5" fill="#8A6E4B"/>
+  </g>
+
+  <!-- каменна основа -->
+  <rect x="60" y="470" width="680" height="26" fill="#57503F"/>
+  <rect x="60" y="496" width="680" height="14" fill="#3A2C20"/>
+
+  <!-- фурнаджийска лопата -->
+  <g transform="rotate(-24 210 520)">
+    <rect x="150" y="514" width="240" height="9" rx="4" fill="#C9B389"/>
+    <path d="M132 502 h44 a10 10 0 0 1 10 10 v10 a10 10 0 0 1 -10 10 h-44 z" fill="#D9C9A6"/>
+  </g>
+
+  <!-- под: теракотни плочи -->
+  <rect x="0" y="510" width="800" height="90" fill="#AD7A52"/>
+  <g stroke="#8A5A3B" stroke-width="2.4" opacity="0.7">
+    <line x1="0" y1="540" x2="800" y2="540"/>
+    <line x1="0" y1="572" x2="800" y2="572"/>
+    <line x1="120" y1="510" x2="132" y2="600"/>
+    <line x1="280" y1="510" x2="292" y2="600"/>
+    <line x1="440" y1="510" x2="452" y2="600"/>
+    <line x1="600" y1="510" x2="612" y2="600"/>
+  </g>
+</svg>

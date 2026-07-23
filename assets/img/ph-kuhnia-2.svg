@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Илюстрация: гювече със смилянски боб">
+  <rect width="800" height="600" fill="#EFE3CB"/>
+
+  <!-- червена тъкана покривка, като в механата -->
+  <rect x="0" y="404" width="800" height="196" fill="#A8402A"/>
+  <g stroke="#8A3020" stroke-width="7" opacity="0.75">
+    <line x1="0" y1="436" x2="800" y2="436"/>
+    <line x1="0" y1="496" x2="800" y2="496"/>
+    <line x1="0" y1="556" x2="800" y2="556"/>
+  </g>
+  <g stroke="#EFCD97" stroke-width="2.2" opacity="0.85">
+    <line x1="0" y1="424" x2="800" y2="424"/>
+    <line x1="0" y1="448" x2="800" y2="448"/>
+    <line x1="0" y1="484" x2="800" y2="484"/>
+    <line x1="0" y1="508" x2="800" y2="508"/>
+    <line x1="0" y1="544" x2="800" y2="544"/>
+    <line x1="0" y1="568" x2="800" y2="568"/>
+  </g>
+  <ellipse cx="400" cy="452" rx="180" ry="26" fill="#5C1F12" opacity="0.35"/>
+
+  <!-- гювечето -->
+  <path d="M270 300 C270 396 320 448 400 448 C480 448 530 396 530 300 Z" fill="#A8724C"/>
+  <path d="M270 300 C270 380 316 428 400 428 C484 428 530 380 530 300 Z" fill="#8A5A3B" opacity="0.35"/>
+  <ellipse cx="400" cy="300" rx="130" ry="34" fill="#8A5A3B"/>
+  <ellipse cx="400" cy="294" rx="130" ry="34" fill="#A8724C"/>
+  <!-- „паунови очи“ по ръба, като на троянската керамика от снимките -->
+  <g>
+    <circle cx="316" cy="316" r="7" fill="#F2E6C8"/>
+    <circle cx="316" cy="316" r="3.4" fill="#33415C"/>
+    <path d="M310 310 a8 8 0 0 1 12 0" fill="none" stroke="#C9A96A" stroke-width="2"/>
+    <circle cx="358" cy="323" r="7" fill="#F2E6C8"/>
+    <circle cx="358" cy="323" r="3.4" fill="#33415C"/>
+    <path d="M352 317 a8 8 0 0 1 12 0" fill="none" stroke="#C9A96A" stroke-width="2"/>
+    <circle cx="400" cy="326" r="7" fill="#F2E6C8"/>
+    <circle cx="400" cy="326" r="3.4" fill="#33415C"/>
+    <path d="M394 320 a8 8 0 0 1 12 0" fill="none" stroke="#C9A96A" stroke-width="2"/>
+    <circle cx="442" cy="323" r="7" fill="#F2E6C8"/>
+    <circle cx="442" cy="323" r="3.4" fill="#33415C"/>
+    <path d="M436 317 a8 8 0 0 1 12 0" fill="none" stroke="#C9A96A" stroke-width="2"/>
+    <circle cx="484" cy="316" r="7" fill="#F2E6C8"/>
+    <circle cx="484" cy="316" r="3.4" fill="#33415C"/>
+    <path d="M478 310 a8 8 0 0 1 12 0" fill="none" stroke="#C9A96A" stroke-width="2"/>
+  </g>
+  <ellipse cx="400" cy="294" rx="112" ry="27" fill="#7A4A2E"/>
+
+  <!-- бобът -->
+  <ellipse cx="400" cy="294" rx="104" ry="24" fill="#B04A32"/>
+  <g fill="#EFCD97">
+    <ellipse cx="352" cy="288" rx="16" ry="9" transform="rotate(-14 352 288)"/>
+    <ellipse cx="398" cy="296" rx="17" ry="10" transform="rotate(10 398 296)"/>
+    <ellipse cx="444" cy="288" rx="15" ry="9" transform="rotate(-8 444 288)"/>
+    <ellipse cx="376" cy="302" rx="13" ry="8" transform="rotate(18 376 302)"/>
+    <ellipse cx="428" cy="302" rx="13" ry="8" transform="rotate(-16 428 302)"/>
+  </g>
+  <ellipse cx="368" cy="286" rx="5" ry="3" fill="#D9A968"/>
+  <ellipse cx="412" cy="292" rx="5" ry="3" fill="#D9A968"/>
+  <!-- джоджен -->
+  <g fill="#42553F">
+    <ellipse cx="400" cy="278" rx="7" ry="4" transform="rotate(-20 400 278)"/>
+    <ellipse cx="410" cy="282" rx="7" ry="4" transform="rotate(24 410 282)"/>
+    <ellipse cx="404" cy="286" rx="4" ry="2.6"/>
+  </g>
+
+  <!-- дръжки -->
+  <path d="M268 306 c-22 4 -22 26 0 30" fill="none" stroke="#8A5A3B" stroke-width="12" stroke-linecap="round"/>
+  <path d="M532 306 c22 4 22 26 0 30" fill="none" stroke="#8A5A3B" stroke-width="12" stroke-linecap="round"/>
+
+  <!-- пара -->
+  <g fill="none" stroke="#C9BCA4" stroke-linecap="round" opacity="0.6">
+    <path d="M360 246 c-6 -16 6 -22 0 -38" stroke-width="6"/>
+    <path d="M404 238 c-7 -18 7 -24 0 -44" stroke-width="7"/>
+    <path d="M446 248 c-5 -14 5 -20 0 -34" stroke-width="5"/>
+  </g>
+
+  <!-- дървена лъжица -->
+  <g transform="rotate(18 620 420)">
+    <rect x="600" y="416" width="130" height="10" rx="5" fill="#A8845A"/>
+    <ellipse cx="596" cy="421" rx="24" ry="15" fill="#A8845A"/>
+    <ellipse cx="596" cy="420" rx="15" ry="8" fill="#8A6E4B"/>
+  </g>
+</svg>

@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 640" role="img" aria-label="Илюстрация: механата на седловината на Проход Печинско привечер, с пътя, изкачващ се между родопските ридове">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FAF5E8"/>
+      <stop offset="0.62" stop-color="#F2E4C8"/>
+      <stop offset="1" stop-color="#EFDFC0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- небе -->
+  <rect width="800" height="640" fill="url(#sky)"/>
+  <circle cx="292" cy="204" r="62" fill="#E9CC92" opacity="0.35"/>
+  <circle cx="292" cy="204" r="44" fill="#E9CC92"/>
+
+  <!-- птици -->
+  <path d="M368 148 q7 -7 14 0 q7 -7 14 0" fill="none" stroke="#5C4F41" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
+  <path d="M414 170 q5 -5 10 0 q5 -5 10 0" fill="none" stroke="#5C4F41" stroke-width="2" stroke-linecap="round" opacity="0.3"/>
+
+  <!-- далечни ридове -->
+  <path d="M0 316 L92 266 L184 302 L288 250 L402 298 L520 256 L642 302 L740 274 L800 292 V640 H0 Z" fill="#ACB08F"/>
+  <path d="M0 374 L118 318 L238 362 L356 320 L472 368 L602 328 L722 370 L800 348 V640 H0 Z" fill="#7C8A6B"/>
+  <path d="M0 438 L138 384 L262 430 L418 380 L560 432 L700 394 L800 420 V640 H0 Z" fill="#55684E"/>
+
+  <!-- близък рид със седловината -->
+  <path d="M0 522 C118 470 222 506 320 488 C420 470 476 452 556 450 L648 450 C706 452 762 472 800 490 V640 H0 Z" fill="#42553F"/>
+
+  <!-- иглолистни силуети -->
+  <g fill="#2C3A28">
+    <path d="M96 500 l10 -24 10 24 z M99 486 l7 -17 7 17 z"/>
+    <path d="M132 512 l9 -21 9 21 z M135 500 l6 -15 6 15 z"/>
+    <path d="M176 498 l8 -19 8 19 z"/>
+    <path d="M708 476 l9 -22 9 22 z M711 463 l6 -15 6 15 z"/>
+    <path d="M744 490 l8 -18 8 18 z"/>
+  </g>
+
+  <!-- път през прохода -->
+  <path d="M64 640 C150 600 244 606 302 578 C362 550 330 528 418 508 C482 494 540 472 584 462"
+        fill="none" stroke="#EFE6D0" stroke-width="15" stroke-linecap="round"/>
+  <path d="M584 462 C560 468 540 472 522 478" fill="none" stroke="#EFE6D0" stroke-width="10" stroke-linecap="round" opacity="0.9"/>
+  <path d="M660 458 C706 468 754 480 800 492" fill="none" stroke="#EFE6D0" stroke-width="8" stroke-linecap="round" opacity="0.85"/>
+  <path d="M92 628 C170 594 250 596 300 572" fill="none" stroke="#C9A96A" stroke-width="1.6" stroke-dasharray="12 14" opacity="0.5"/>
+
+  <!-- преден склон -->
+  <path d="M0 640 V576 C148 542 262 568 382 558 C502 548 610 522 800 562 V640 Z" fill="#33422E"/>
+  <g fill="#243020">
+    <path d="M64 584 l11 -26 11 26 z M67 569 l8 -19 8 19 z"/>
+    <path d="M118 596 l9 -22 9 22 z"/>
+    <path d="M694 566 l10 -24 10 24 z M697 552 l7 -17 7 17 z"/>
+  </g>
+
+  <!-- механата на седловината: двуетажна възрожденска сграда с еркер -->
+  <g>
+    <ellipse cx="626" cy="456" rx="50" ry="6" fill="#2C3A28" opacity="0.45"/>
+    <!-- комин (зад покрива) -->
+    <rect x="644" y="366" width="7" height="20" fill="#EDE6D6"/>
+    <rect x="642" y="363" width="11" height="4" fill="#4A3A2B"/>
+    <path d="M648 358 c-5 -10 4 -14 0 -24 c-3 -8 3 -12 1 -18" fill="none" stroke="#DDD3C2" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
+    <!-- долен етаж -->
+    <rect x="596" y="426" width="60" height="28" fill="#F2ECDD"/>
+    <rect x="596" y="448" width="60" height="6" fill="#4A3A2B"/>
+    <rect x="620" y="430" width="12" height="24" fill="#2A2018"/>
+    <rect x="622" y="432" width="8" height="12" fill="#E8A25B"/>
+    <rect x="602" y="431" width="10" height="12" fill="#E8A25B"/>
+    <rect x="601" y="430" width="12" height="14" fill="none" stroke="#3A2C1E" stroke-width="1.3"/>
+    <rect x="640" y="431" width="10" height="12" fill="#E8A25B"/>
+    <rect x="639" y="430" width="12" height="14" fill="none" stroke="#3A2C1E" stroke-width="1.3"/>
+    <!-- еркерна греда -->
+    <rect x="590" y="421" width="72" height="5" fill="#3A2C1E"/>
+    <!-- горен етаж, издаден напред -->
+    <rect x="590" y="394" width="72" height="27" fill="#F6F1E7"/>
+    <rect x="590" y="394" width="3" height="27" fill="#3A2C1E"/>
+    <rect x="659" y="394" width="3" height="27" fill="#3A2C1E"/>
+    <text x="626" y="417" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="9" font-weight="bold" letter-spacing="1.2" fill="#4A3324">МЕХАНА</text>
+    <rect x="597" y="398" width="10" height="10" fill="#2A2018"/>
+    <rect x="621" y="398" width="10" height="10" fill="#E8A25B"/>
+    <rect x="620" y="397" width="12" height="12" fill="none" stroke="#3A2C1E" stroke-width="1.2"/>
+    <rect x="645" y="398" width="10" height="10" fill="#2A2018"/>
+    <!-- покрив с червени керемиди и бели челни дъски -->
+    <polygon points="582,396 626,366 670,396" fill="#964434"/>
+    <path d="M582 396 L626 366 L670 396" fill="none" stroke="#F6F1E7" stroke-width="2.4" stroke-linejoin="round"/>
+    <rect x="582" y="393" width="88" height="4" rx="2" fill="#4A3F30"/>
+    <!-- ковано желязо ограда с месингови връхчета -->
+    <g stroke="#2A2018" stroke-width="1.4">
+      <line x1="578" y1="453" x2="578" y2="461"/>
+      <line x1="590" y1="453" x2="590" y2="461"/>
+      <line x1="602" y1="453" x2="602" y2="461"/>
+      <line x1="650" y1="453" x2="650" y2="461"/>
+      <line x1="662" y1="453" x2="662" y2="461"/>
+      <line x1="674" y1="453" x2="674" y2="461"/>
+      <line x1="574" y1="454.5" x2="606" y2="454.5"/>
+      <line x1="646" y1="454.5" x2="678" y2="454.5"/>
+    </g>
+    <g fill="#C9A96A">
+      <circle cx="578" cy="452" r="1.1"/>
+      <circle cx="590" cy="452" r="1.1"/>
+      <circle cx="602" cy="452" r="1.1"/>
+      <circle cx="650" cy="452" r="1.1"/>
+      <circle cx="662" cy="452" r="1.1"/>
+      <circle cx="674" cy="452" r="1.1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Илюстрация: пътят през прохода между Мадан и Златоград">
+  <rect width="800" height="600" fill="#F7F0DE"/>
+  <path d="M0 280 L120 236 L240 272 L380 224 L520 270 L640 232 L800 268 V600 H0 Z" fill="#ACB08F"/>
+  <path d="M0 352 L150 300 L300 344 L470 298 L620 348 L800 312 V600 H0 Z" fill="#7C8A6B"/>
+  <path d="M0 430 L180 372 L360 424 L560 372 L800 424 V600 H0 Z" fill="#55684E"/>
+  <path d="M0 600 V498 C220 452 480 476 800 460 V600 Z" fill="#42553F"/>
+
+  <g fill="#2C3A28">
+    <path d="M90 484 l12 -28 12 28 z M93 468 l9 -21 9 21 z"/>
+    <path d="M150 500 l10 -24 10 24 z"/>
+    <path d="M620 470 l11 -26 11 26 z M623 456 l8 -19 8 19 z"/>
+    <path d="M690 486 l9 -21 9 21 z"/>
+  </g>
+
+  <!-- пътят със серпентини -->
+  <path d="M320 600 C360 552 300 522 360 490 C420 460 460 470 500 446 C540 424 520 404 560 388"
+        fill="none" stroke="#EFE6D0" stroke-width="26" stroke-linecap="round"/>
+  <path d="M560 388 C590 378 610 372 640 368" fill="none" stroke="#EFE6D0" stroke-width="14" stroke-linecap="round" opacity="0.9"/>
+  <path d="M330 588 C360 556 316 528 368 498" fill="none" stroke="#C9A96A" stroke-width="2" stroke-dasharray="14 16" opacity="0.55"/>
+
+  <!-- километричен камък -->
+  <g>
+    <rect x="270" y="520" width="26" height="38" rx="6" fill="#F6F1E7"/>
+    <path d="M270 532 a13 13 0 0 1 26 0 z" fill="#A8402A"/>
+    <rect x="278" y="540" width="10" height="3" fill="#5C4F41" opacity="0.5"/>
+  </g>
+</svg>

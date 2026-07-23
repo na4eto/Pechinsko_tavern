@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Илюстрация: гледка от терасата към родопските ридове">
+  <rect width="800" height="600" fill="#FAF5E8"/>
+  <circle cx="560" cy="170" r="70" fill="#E9CC92" opacity="0.32"/>
+  <circle cx="560" cy="170" r="48" fill="#E9CC92"/>
+
+  <path d="M540 120 q8 -8 16 0 q8 -8 16 0" fill="none" stroke="#5C4F41" stroke-width="2.4" stroke-linecap="round" opacity="0.4"/>
+  <path d="M480 96 q6 -6 12 0 q6 -6 12 0" fill="none" stroke="#5C4F41" stroke-width="2" stroke-linecap="round" opacity="0.3"/>
+
+  <path d="M0 306 L110 260 L220 298 L340 246 L470 296 L590 252 L700 296 L800 268 V600 H0 Z" fill="#ACB08F"/>
+  <path d="M0 372 L130 318 L260 364 L400 316 L540 368 L680 324 L800 360 V600 H0 Z" fill="#7C8A6B"/>
+  <path d="M0 448 L160 390 L320 442 L500 388 L660 442 L800 404 V600 H0 Z" fill="#55684E"/>
+  <path d="M0 600 V520 C200 478 420 502 620 486 C700 480 760 490 800 500 V600 Z" fill="#42553F"/>
+
+  <g fill="#2C3A28">
+    <path d="M120 512 l11 -26 11 26 z M123 497 l8 -19 8 19 z"/>
+    <path d="M180 526 l9 -21 9 21 z"/>
+    <path d="M660 502 l10 -24 10 24 z M663 488 l7 -17 7 17 z"/>
+  </g>
+
+  <!-- парапет на терасата -->
+  <rect x="0" y="556" width="800" height="12" fill="#4A3A2B"/>
+  <g fill="#57402C">
+    <rect x="40" y="568" width="12" height="32"/>
+    <rect x="180" y="568" width="12" height="32"/>
+    <rect x="320" y="568" width="12" height="32"/>
+    <rect x="460" y="568" width="12" height="32"/>
+    <rect x="600" y="568" width="12" height="32"/>
+    <rect x="740" y="568" width="12" height="32"/>
+  </g>
+  <!-- чаша на парапета -->
+  <path d="M700 532 l16 0 -2 16 -12 0 z" fill="#A8402A"/>
+  <rect x="706" y="548" width="4" height="8" fill="#57402C"/>
+</svg>

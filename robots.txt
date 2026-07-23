@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Когато сайтът има домейн, добавете и ред със sitemap, напр.:
+# Sitemap: https://www.example.bg/sitemap.xml
