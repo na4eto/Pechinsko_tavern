@@ -17,8 +17,8 @@ window.I18N_EN = {
 
   /* херо */
   "hero.eyebrow": "Pechinsko Pass · 1060 m · between Madan and Zlatograd",
-  "hero.title.a": "A Rhodope table",
-  "hero.title.b": "right on the pass",
+  "hero.title.a": "Live embers, warm bread,",
+  "hero.title.b": "a Rhodope table",
   "hero.lead": "Bulgarian cooking, warm bread, dishes over live fire and a mountain view — a place where the road stays behind you for a while.",
   "hero.ctaMenu": "See the menu",
   "hero.ctaReserve": "Book a table",
